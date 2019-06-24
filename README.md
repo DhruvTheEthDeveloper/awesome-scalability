@@ -799,6 +799,30 @@ An organized reading list for illustrating the patterns behind scalable, reliabl
 * [Web Scalability for Startup Engineers](https://www.goodreads.com/book/show/23615147-web-scalability-for-startup-engineers)
 * [Scalability Rules: 50 Principles for Scaling Web Sites](http://scalabilityrules.com/)
 
+
+
+# Now  for Blockchain Applications 
+as the bottleneck of the centralised  AS od the internet (GAFA , BATX ) is causing the serious erosion of trust , blockchain has provided a new thrust in insuring participative and privacy focused web 3.0 . taaking clues from the above links showing the every aspect of scaling the centralised internet .i will be working on  writing about the links / information of analogus  tech - stack that will be giving the same QOS & performance but at less cost. 
+
+##### coming soon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## License
 
 By [John Git](https://www.linkedin.com/in/binhnguyennus/), the twin brother of John Wick, who once killed three processes in a server with a pencil :pencil2:
